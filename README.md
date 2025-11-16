@@ -176,7 +176,7 @@ Die Simulation verwendet:
 
 ## Autor
 
-Projekt erstellt von **Harmony Emadjeu Jontcheu** mit Unterstützung von Prof. Dr. Oliver Rinne im Rahmen des Kurses "Mathematischer Software", Semester 5, Bachelor-Studium.
+Projekt erstellt von **Harmony Emadjeu Jontcheu** mit Unterstützung von Prof. Dr. Oliver Rinne im Rahmen des Kurses "Mathematischer Software".
 
 ## Lizenz
 
