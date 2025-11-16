@@ -81,10 +81,7 @@ pip install numpy matplotlib jupyter
 
 ### Ausführung
 
-1. Öffnen Sie das Notebook in Jupyter:
-```bash
-jupyter notebook MS_Final_Code.ipynb
-```
+1. laden Sie MS_Final_Code.ipynb hoch und offnen sie das in Jupyter:
 
 2. Führen Sie die Zellen nacheinander aus, um:
    - Das Grundmodell zu simulieren
