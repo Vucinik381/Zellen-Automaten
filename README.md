@@ -90,8 +90,9 @@ jupyter notebook MS_Final_Code.ipynb
    - Das Grundmodell zu simulieren
    - Verschiedene Erweiterungen zu testen
    - Die Animationen anzuzeigen
-3. **Alternativ** : Öffnen Sie einfach die Datei MS_Final_Code.html in einem Webbrowser (z.B. Chrome, Firefox). 
+3. **Alternativ** : - Öffnen Sie einfach die Datei MS_Final_Code.html in einem Webbrowser (z.B. Chrome, Firefox). 
                    Die Simulation kann dort direkt gestartet und ausgeführt werden.
+                   - [Klicken Sie hier bitte, um das vollständige Notebook auf nbviewer anzuzeigen.](https://nbviewer.org/github/harmony-htw/ZAutomaten/blob/Add-Features/MS_Final_Code.ipynb)
 
 ### Beispiel
 
