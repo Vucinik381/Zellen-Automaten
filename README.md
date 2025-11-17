@@ -89,7 +89,7 @@ pip install numpy matplotlib jupyter
    - Die Animationen anzuzeigen
 3. **Alternativ** : - Öffnen Sie einfach die Datei MS_Final_Code.html in einem Webbrowser (z.B. Chrome, Firefox). 
                    Die Simulation kann dort direkt gestartet und ausgeführt werden.
-                   - [Klicken Sie hier bitte, um das vollständige Notebook auf nbviewer anzuzeigen.](https://harmony-htw.github.io/ZAutomaten/MS_Final_Code.html)
+                   - [Klicken Sie hier bitte, um das vollständige Notebook anzuzeigen.](https://harmony-htw.github.io/ZAutomaten/MS_Final_Code.html)
 
 ### Beispiel
 
